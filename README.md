@@ -30,5 +30,8 @@ Or you can install these package dependencies by install.packages() and BiocMana
 Note: To reduce your waiting time, we recommend using the rpy2 library to call the path of R software installed in your existing virtual environment.
 
 ## Quick start
-
+```bash
+cd stGuide
+python TCGA_CCLE_CellMirror.py
+```
 
