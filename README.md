@@ -32,6 +32,7 @@ Note: To reduce your waiting time, we recommend using the rpy2 library to call t
 ## Quick start
 ```bash
 cd stGuide
-python TCGA_CCLE_CellMirror.py
+python MERFISH_26_to_27_Pretrain.py
+python MERFISH_26_to_27_Train.py
 ```
 
